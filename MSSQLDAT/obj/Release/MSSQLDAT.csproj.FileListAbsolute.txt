@@ -1,0 +1,5 @@
+C:\Users\Ruther John\OneDrive\Documents\DLL files\Data Access Tier\vs12\mssqlDAT\MSSQLDAT\MSSQLDAT\bin\Release\MSSQLDAT.dll
+C:\Users\Ruther John\OneDrive\Documents\DLL files\Data Access Tier\vs12\mssqlDAT\MSSQLDAT\MSSQLDAT\bin\Release\MSSQLDAT.pdb
+C:\Users\Ruther John\OneDrive\Documents\DLL files\Data Access Tier\vs12\mssqlDAT\MSSQLDAT\MSSQLDAT\obj\Release\MSSQLDAT.dll
+C:\Users\Ruther John\OneDrive\Documents\DLL files\Data Access Tier\vs12\mssqlDAT\MSSQLDAT\MSSQLDAT\obj\Release\MSSQLDAT.pdb
+C:\Users\Ruther John\OneDrive\Documents\DLL files\Data Access Tier\vs12\mssqlDAT\MSSQLDAT\MSSQLDAT\obj\Release\MSSQLDAT.csprojResolveAssemblyReference.cache
