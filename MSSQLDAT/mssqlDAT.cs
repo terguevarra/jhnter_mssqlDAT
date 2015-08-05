@@ -7,7 +7,7 @@ using System.Data; //Datatable
 
 using System.Configuration;
  
-namespace SIMS
+namespace GuevarraR
 {
     namespace DataAccess
     {
